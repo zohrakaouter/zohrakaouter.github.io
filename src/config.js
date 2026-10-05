@@ -12,7 +12,7 @@ module.exports = {
   location: 'Rennes, France',
   email: 'kebaili.zohra.kaouter@gmail.com',
   github: 'https://github.com/zohrakaouter',
-  twitterHandle: '@',
+  twitterHandle: '@KebailiZohra',
   socialMedia: [
     {
       name: 'GitHub',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/zohra-kaouter-kebaili',
+      url: 'https://www.linkedin.com/in/zohra-kaouter-kebaili',
     },
     {
       name: 'Codepen',
