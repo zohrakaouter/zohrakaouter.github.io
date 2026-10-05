@@ -1,8 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: `/zohrakaouterkebaili`,
-
+  pathPrefix: `/`,
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,

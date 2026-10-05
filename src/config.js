@@ -1,16 +1,16 @@
 module.exports = {
   siteTitle: 'Zohra Kaouter KEBAILI',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Zohra Kaouter KEBAILI is an R&D Software Engineer and PhD holder, based in France, who loves learning, research, and teaching.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Zohra kebaili, kebaili, kaouter kebaili, zohrakaouterkebaili, software engineer, developer, research, academia, genai, phd,rennes',
   siteUrl: 'https://zohrakaouter.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
+  name: 'Zohra Kaouter KEBAILI',
+  location: 'Rennes, France',
+  email: 'kebaili.zohra.kaouter@gmail.com',
   github: 'https://github.com/zohrakaouter',
   twitterHandle: '@',
   socialMedia: [
@@ -20,19 +20,16 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/zohra-kaouter-kebaili',
     },
     {
       name: 'Codepen',
       url: 'https://codepen.io/yashitanamdeo',
     },
+
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
+      name: 'X',
+      url: 'https://x.com/KebailiZohra',
     },
   ],
 
