@@ -5,7 +5,7 @@
   "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
+    "url": "https://github.com/zohrakaouter/zohrakaouterkebaili.github.io"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +18,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "husky": {
     "hooks": {
